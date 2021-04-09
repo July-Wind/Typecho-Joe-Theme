@@ -1,5 +1,5 @@
 > 基于Typecho-Joe-theme4.7.7进行优化魔改的主题
-- QQ：28178081
+- QQ：2817808181
 - Git仓库：https://github.com/July-Wind/Typecho-Joe-Theme
 - 预览网址：https://www.syzhan.cn
 
@@ -13,6 +13,7 @@
 
 ## 预优化
 1.更改手机页面的UI布局
+2.写配套插件
 
 ## 赞助
 ![请输入图片描述][1]
