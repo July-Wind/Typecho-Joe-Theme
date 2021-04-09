@@ -17,4 +17,4 @@
 ## 赞助
 ![请输入图片描述][1]
 
-  [1]: https://cdn.jsdelivr.net/gh/july-wind/img3/4.5.png
+  [1]: https://cdn.jsdelivr.net/gh/july-wind/img/img/erwei.jpg
