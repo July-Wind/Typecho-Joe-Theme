@@ -15,4 +15,4 @@
 1.更改手机页面的UI布局
 
 ## 赞助
-![https://cdn.jsdelivr.net/gh/july-wind/img/img/erwei.jpg]()
+![请输入图片描述][https://cdn.jsdelivr.net/gh/july-wind/img/img/erwei.jpg]
